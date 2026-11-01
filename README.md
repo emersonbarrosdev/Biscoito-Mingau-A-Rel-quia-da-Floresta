@@ -29,12 +29,6 @@ Platformer 2D de precisão, momentum e exploração protagonizado por **Biscoito
 
 ## Documentação oficial
 
-- `docs/GAME_BIBLE.md`
-- `docs/LEVEL_BIBLE.md`
-- `docs/GAMEPLAY_COMBAT_BOSSES.md`
-- `docs/VISUAL_DIRECTION.md`
-- `docs/TECHNICAL_ARCHITECTURE.md`
-- `docs/ROADMAP.md`
-- `docs/references/REFERENCE_LINKS.md`
+- [`docs/GAME_DESIGN_BIBLE.md`](docs/GAME_DESIGN_BIBLE.md) — história completa, personagens, movimentação, combate, inimigos, 25 fases, bosses, duração das fases, direção visual, controles, plataformas, backend futuro, referências e roadmap.
 
-A documentação deste repositório é a fonte oficial de direção do projeto.
+A Bíblia do Jogo é a fonte oficial de direção do projeto e deve ser consultada antes de qualquer implementação que altere gameplay, arquitetura, arte, fases ou progressão.
